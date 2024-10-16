@@ -1,4 +1,4 @@
-# Image-to-Image Translation Using CycleGAN: Image Conversion with PyTorch
+# Image-to-Image Translation Using CycleGAN (Generative Adversarial Networks)
 
 ## About Project:
 
